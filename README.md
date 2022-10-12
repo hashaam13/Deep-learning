@@ -1,2 +1,2 @@
 # Deep-learning
-Deep learning based  projects
+Projects for Deep learning specialization.
